@@ -1,4 +1,4 @@
-# The </intuinet>
+# The intuinet
 
 The internet, if GUI's **never existed**
 
