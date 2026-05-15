@@ -1,0 +1,62 @@
+<h><fg;col=00FFFF>The &#LT;&#SLASH;intuinet&#GT;</fg></h>
+<p>The internet, if GUI's <bold>never existed</bold></p>
+<p></p>
+
+<p></p>
+<h>Information</h>
+<p>The Intuinet is a hobbyist project made by me (me), and</p>
+<p>aims to be an alternative to most terminal browsers today.</p>
+<p>Currently, The Intuinet is more of a "fancy terminal document</p>
+<p>renderer" than an actual server, but only because i dont want</p>
+<p>to host a server (costs money)</p>
+<p></p>
+<p></p>
+<p></p>
+
+<h>Why the Intuinet?</h>
+<p>idk i just made this for fun. use it or dont.</p>
+<p>it doesnt really matter</p>
+<p>plus, this is really REALLY barebones, and</p>
+<p>my system might be jank, but whatever</p>
+<p>i enjoyed making this :)</p>
+<p></p>
+<p></p>
+<p></p>
+<h>Documentation</h>
+<p><bold><raw>─╖ <h>text</h> </raw></bold></p>
+<p> ║ A header, Makes the text inside</p>
+<p> ║ it large. There are currently</p>
+<p> ║ no plans to make diferent</p>
+<p> ║ sizes of <raw><h>.</raw></p>
+<p></p>
+<p></p>
+
+<p><bold><raw>─╖ <p>text</p> </raw></bold></p>
+<p> ║ Normal text, Rendered as normal.</p>
+<p></p>
+<p></p>
+
+<p><bold><raw>─╖ <bold>, <ital>, <under>, <strike>, and it's closing tags </raw></bold></p>
+<p> ║ Turns the text inside into bold,</p>
+<p> ║ italic, underlined, or strike-through.</p>
+<p></p>
+<p></p>
+
+<p><bold><raw>─╖ <fg;col=FFFFFF>text</fg> </raw></bold></p>
+<p> ║ Sets the text color to the</p>
+<p> ║ HEX color inside of the tag.</p>
+<p> ║ Note: <under>MUST HAVE NO HASHTAG.</under></p>
+<p></p>
+<p></p>
+
+<p><bold><raw>─╖ <bg;col=FFFFFF>text</bg> </raw></bold></p>
+<p> ║ Sets the background color to the</p>
+<p> ║ HEX color inside of the tag.</p>
+<p> ║ Note: <under>MUST HAVE NO HASHTAG.</under></p>
+<p></p>
+<p></p>
+
+<p><bold><raw>─╖ <raw&#GT;text<&#SLASH;raw> </raw></bold></p>
+<p> ║ Sets the background color to the</p>
+<p> ║ HEX color inside of the tag.</p>
+<p> ║ Note: <under>MUST HAVE NO HASHTAG.</under></p>
